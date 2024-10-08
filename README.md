@@ -13,9 +13,6 @@ I am an aspiring **Ethical Hacker** with a strong interest in **Cybersecurity**.
 - **Frameworks:** React, Node.js
 - **Security Tools:** Metasploit, Wireshark, Burp Suite
 
-### 🌐 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  <!-- Replace with your LinkedIn profile -->
-- [GitHub](https://github.com/AbhishekGohel007)
 
 ### 🎨 Animation:
 <!-- Add a Lottie Animation here -->
