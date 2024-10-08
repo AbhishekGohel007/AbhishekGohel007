@@ -4,8 +4,8 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> 
-    <a href="https://twitter.com/AbhishekGohel007" target="blank">
-        <img src="https://img.shields.io/twitter/follow/AbhishekGohel007?logo=twitter&style=for-the-badge" alt="Abhishek Gohel" />
+    <a href="https://x.com/abhishekgohel28" target="blank">
+        <img src="https://img.shields.io/twitter/follow/abhishekgohel28?logo=twitter&style=for-the-badge" alt="Abhishek Gohel" />
     </a> 
 </p>
 
