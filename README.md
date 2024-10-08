@@ -1,17 +1,27 @@
-## Hi there! I'm Abhishek Gohel 👋
+## 👋 Hi there! I'm Abhishek Gohel
 
-- 👀 I’m interested in **Ethical Hacking** and **Cybersecurity**
-- 🌱 I’m currently learning **Ethical Hacking** and **Network Security**
+### About Me:
+I am an aspiring **Ethical Hacker** with a strong interest in **Cybersecurity**. Currently, I am enhancing my skills in **Ethical Hacking** and **Network Security**. My goal is to contribute to making the digital world a safer place.
 
-### 💻 Tech Stack & Tools:
+### Interests:
+- Ethical Hacking
+- Cybersecurity
+- Network Security
+
+### 💻 Tech Stack:
 - **Programming Languages:** Python, JavaScript
 - **Frameworks:** React, Node.js
 - **Security Tools:** Metasploit, Wireshark, Burp Suite
 
-### 🔥 Passionate about securing the web!
+### 🌐 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  <!-- Replace with your LinkedIn profile -->
+- [GitHub](https://github.com/AbhishekGohel007)
+
+### 🎨 Animation:
+<!-- Add a Lottie Animation here -->
+<div style="display: flex; justify-content: center;">
+    <lottie-player src="https://assets7.lottiefiles.com/packages/lf20_tzjtzlfn.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+</div>
 
 ---
-
-### Developer Animation:
-```html
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=007BFF&lines=Ethical+Hacker;Cybersecurity+Enthusiast;Full+Stack+Developer" alt="Typing SVG">
+Feel free to reach out to discuss security topics or share ideas!
